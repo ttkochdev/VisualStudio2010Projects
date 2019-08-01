@@ -1,0 +1,5 @@
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPClient\MultiThreadedTCPClient\bin\Debug\MultiThreadedTCPClient.exe
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPClient\MultiThreadedTCPClient\bin\Debug\MultiThreadedTCPClient.pdb
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPClient\MultiThreadedTCPClient\obj\Debug\MultiThreadedTCPClient.csprojResolveAssemblyReference.cache
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPClient\MultiThreadedTCPClient\obj\Debug\MultiThreadedTCPClient.exe
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPClient\MultiThreadedTCPClient\obj\Debug\MultiThreadedTCPClient.pdb

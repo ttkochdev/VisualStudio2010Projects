@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\MultiThreadTCPClient\MultiThreadTCPClient\bin\Debug\MultiThreadTCPClient.exe
+f:\visual studio 2010\Projects\MultiThreadTCPClient\MultiThreadTCPClient\bin\Debug\MultiThreadTCPClient.pdb
+f:\visual studio 2010\Projects\MultiThreadTCPClient\MultiThreadTCPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\MultiThreadTCPClient\MultiThreadTCPClient\obj\x86\Debug\MultiThreadTCPClient.exe
+f:\visual studio 2010\Projects\MultiThreadTCPClient\MultiThreadTCPClient\obj\x86\Debug\MultiThreadTCPClient.pdb

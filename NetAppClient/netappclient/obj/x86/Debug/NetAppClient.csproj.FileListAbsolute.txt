@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\NetAppClient\NetAppClient\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\NetAppClient\NetAppClient\bin\Debug\NetAppClient.exe
+f:\visual studio 2010\Projects\NetAppClient\NetAppClient\bin\Debug\NetAppClient.pdb
+f:\visual studio 2010\Projects\NetAppClient\NetAppClient\obj\x86\Debug\NetAppClient.exe
+f:\visual studio 2010\Projects\NetAppClient\NetAppClient\obj\x86\Debug\NetAppClient.pdb

@@ -1,0 +1,10 @@
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\bin\Debug\MultiThreadedTCPServer.exe
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\bin\Debug\MultiThreadedTCPServer.pdb
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\obj\x86\Debug\MultiThreadedTCPServer.exe
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\obj\x86\Debug\MultiThreadedTCPServer.pdb
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\obj\x86\Debug\MultiThreadedTCPServer.exe
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\obj\x86\Debug\MultiThreadedTCPServer.pdb
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\bin\Debug\MultiThreadedTCPServer.exe
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\bin\Debug\MultiThreadedTCPServer.pdb
+C:\Users\tyler\Documents\Visual Studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPServer\obj\x86\Debug\MultiThreadedTCPServer.csprojResolveAssemblyReference.cache

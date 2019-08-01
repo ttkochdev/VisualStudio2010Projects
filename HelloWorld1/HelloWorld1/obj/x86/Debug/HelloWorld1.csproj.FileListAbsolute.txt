@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+f:\visual studio 2010\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
+f:\visual studio 2010\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.exe
+f:\visual studio 2010\Projects\HelloWorld1\HelloWorld1\obj\x86\Debug\HelloWorld1.pdb

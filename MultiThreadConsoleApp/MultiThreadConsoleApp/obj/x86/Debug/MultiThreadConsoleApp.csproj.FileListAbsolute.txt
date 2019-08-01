@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\MultiThreadConsoleApp\MultiThreadConsoleApp\bin\Debug\MultiThreadConsoleApp.exe
+f:\visual studio 2010\Projects\MultiThreadConsoleApp\MultiThreadConsoleApp\bin\Debug\MultiThreadConsoleApp.pdb
+f:\visual studio 2010\Projects\MultiThreadConsoleApp\MultiThreadConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\MultiThreadConsoleApp\MultiThreadConsoleApp\obj\x86\Debug\MultiThreadConsoleApp.exe
+f:\visual studio 2010\Projects\MultiThreadConsoleApp\MultiThreadConsoleApp\obj\x86\Debug\MultiThreadConsoleApp.pdb

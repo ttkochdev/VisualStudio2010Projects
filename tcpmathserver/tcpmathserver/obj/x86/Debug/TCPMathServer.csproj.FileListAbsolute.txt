@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\TCPMathServer\TCPMathServer\bin\Debug\TCPMathServer.exe
+f:\visual studio 2010\Projects\TCPMathServer\TCPMathServer\bin\Debug\TCPMathServer.pdb
+f:\visual studio 2010\Projects\TCPMathServer\TCPMathServer\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\TCPMathServer\TCPMathServer\obj\x86\Debug\TCPMathServer.exe
+f:\visual studio 2010\Projects\TCPMathServer\TCPMathServer\obj\x86\Debug\TCPMathServer.pdb

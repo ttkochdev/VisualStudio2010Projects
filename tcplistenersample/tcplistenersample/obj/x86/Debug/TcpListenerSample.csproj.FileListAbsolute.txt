@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\TcpListenerSample\TcpListenerSample\bin\Debug\TcpListenerSample.exe
+f:\visual studio 2010\Projects\TcpListenerSample\TcpListenerSample\bin\Debug\TcpListenerSample.pdb
+f:\visual studio 2010\Projects\TcpListenerSample\TcpListenerSample\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\TcpListenerSample\TcpListenerSample\obj\x86\Debug\TcpListenerSample.exe
+f:\visual studio 2010\Projects\TcpListenerSample\TcpListenerSample\obj\x86\Debug\TcpListenerSample.pdb

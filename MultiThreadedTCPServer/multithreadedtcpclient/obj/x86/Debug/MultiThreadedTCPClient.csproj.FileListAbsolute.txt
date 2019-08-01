@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPClient\bin\Debug\MultiThreadedTCPClient.exe
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPClient\bin\Debug\MultiThreadedTCPClient.pdb
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPClient\obj\x86\Debug\MultiThreadedTCPClient.exe
+f:\visual studio 2010\Projects\MultiThreadedTCPServer\MultiThreadedTCPClient\obj\x86\Debug\MultiThreadedTCPClient.pdb

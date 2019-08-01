@@ -1,0 +1,5 @@
+f:\visual studio 2010\Projects\MultiThreadTCPServer\MultiThreadTCPServer\bin\Debug\MultiThreadTCPServer.exe
+f:\visual studio 2010\Projects\MultiThreadTCPServer\MultiThreadTCPServer\bin\Debug\MultiThreadTCPServer.pdb
+f:\visual studio 2010\Projects\MultiThreadTCPServer\MultiThreadTCPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\visual studio 2010\Projects\MultiThreadTCPServer\MultiThreadTCPServer\obj\x86\Debug\MultiThreadTCPServer.exe
+f:\visual studio 2010\Projects\MultiThreadTCPServer\MultiThreadTCPServer\obj\x86\Debug\MultiThreadTCPServer.pdb
